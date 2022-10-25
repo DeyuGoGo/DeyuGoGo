@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 我叫黃得瑜
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deyugogo&show_icons=true&theme=algolia&count_private=true" alt="chentsulin's github stats">
+</p> 
